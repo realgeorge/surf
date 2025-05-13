@@ -19,9 +19,9 @@
 > -novid -console -high -refresh 240 -nojoy -limitvsconst -softparticlesdefaultoff -language english
 > ```
 >
-> *If there's any issues with the autoexec not launching with the game, simply write +autoexec.cfg in launch options or +exec autoexec in the game console*.
+> *If there's any issues with the autoexec not launching with the game, simply add `+autoexec.cfg` in launch options or run `+exec autoexec` in the game console*.
 > 
-> *If you change anything in the autoexec, there's no need to relaunch for changes to apply. Save the autoexec and write +exec autoexec in the game console*
+> *If you change anything inside the autoexec config file, there's no need to relaunch the game for changes to apply. Save the autoexec and run `+exec autoexec` in the game console*
 
 
 ## Installing [tele4's](https://gamebanana.com/members/1736054) custom hud
