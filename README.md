@@ -19,7 +19,8 @@
 > -novid -console -high -refresh 240 -nojoy -limitvsconst -softparticlesdefaultoff -language english
 > ```
 >
-> *If there's any issues with the autoexec not launching with the game, simply write +autoexec.cfg in launch options, or +exec autoexec in the game console*.
+> *If there's any issues with the autoexec not launching with the game, simply write +autoexec.cfg in launch options or +exec autoexec in the game console*.
+> 
 > *If you change anything in the autoexec, there's no need to relaunch for changes to apply. Save the autoexec and write +exec autoexec in the game console*
 
 
