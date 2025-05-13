@@ -19,7 +19,7 @@
 > ```
 
 
-## Installing [tele4's](https://gamebanana.com/members/1736054) Custom Hud
+## Installing [tele4's](https://gamebanana.com/members/1736054) custom hud
 > [!TIP]
 > Custom Hud [(TeleSekura)](https://gamebanana.com/mods/445582)
 > Navigate to the following directory: `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\custom`
