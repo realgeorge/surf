@@ -8,6 +8,7 @@
 
 > [!IMPORTANT]
 > Navigate to the following directory: `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\cfg`
+> 
 > Put the autoexec.cfg inside this directory
 > Navigate to Steam > Library > Games > Counter-Strike: Source > Left-click > Properties > Launch options
 > Paste these settings or adjust as you please
