@@ -1,7 +1,7 @@
 # TRiicKy's Surf Config
 ---
 
-> [!INFO] Custom Hud [(TeleSekura)](https://gamebanana.com/mods/445582)
+> [!TIP] Custom Hud [(TeleSekura)](https://gamebanana.com/mods/445582)
 > Navigate to the following directory: `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\custom`
 > Place the tele_sekura folder inside this directory, if there is custom folder create one.
 
@@ -9,7 +9,7 @@
 
 # Installing the config
 
-> [!INFO]
+> [!IMPORTANT]
 > Navigate to the following directory:
 > ```PowerShell
 > C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\cfg
